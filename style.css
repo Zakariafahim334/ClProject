@@ -8,7 +8,7 @@ min-height : 0;
 }
 .section {
 margin : 0 15px;
-}
+}a
 .widget {
 margin : 30px 0;
 }
@@ -471,8 +471,7 @@ font-family : "Open Sans", sans-serif;
 font-size : 14px;
 font-weight : 400;
 line-height : 21px;
-  background: #7f7fd5;
-  background: linear-gradient(to right, #91eae4, #86a8e7, #7f7fd5);
+background: #7f7fd5;
 }
 #outer-wrapper {
 max-width : 100%;
