@@ -56,7 +56,6 @@ display : table;
 }
 input::-ms-clear {
 display : none;
-}
 #blog-pager {
 margin : 1em 0;
 text-align : center;
@@ -472,12 +471,12 @@ font-family : "Open Sans", sans-serif;
 font-size : 14px;
 font-weight : 400;
 line-height : 21px;
-background : #f5f5f5;
+background: linear-gradient(to right, #91eae4, #86a8e7, #7f7fd5);
 }
 #outer-wrapper {
 max-width : 100%;
 margin : 0 auto;
-background-color : #f5f5f5;
+background: linear-gradient(to right, #91eae4, #86a8e7, #7f7fd5);
 box-shadow : 0 0 5px rgb(0, 0, 0, 0.2);
 }
 .row {
