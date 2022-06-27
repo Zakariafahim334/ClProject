@@ -156,11 +156,11 @@ ul li{line-height:20pt}
 .bt{text-decoration:none;cursor:pointer;padding:.1em .25em;min-width:1.4em;font-size:1.7em;color:black;font-family:&quot;Times New Roman&quot;}
 .btb{text-decoration:none;cursor:pointer;padding:.1em 0;min-width:1.2em;font-size:1.7em;color:black;font-family:&quot;Times New Roman&quot;}
 .cadr{width:80%;font-size:24px;color:#000;font-family:&#39;Times New Roman&#39;;direction:rtl;padding:.3em;height:140px}
-a.trl{width:100%;padding:7px;outline:0;border:0;color:#fff;cursor:pointer;margin-top:20px;font-size:17px;border-radius:5px;background:#5372f0;font-family:&#39;Poppins&#39;,sans-serif;margin-left:5px}
+a.trl{width:100%;padding:7px;outline:0;border:0;color:#fff;cursor:pointer;margin-top:20px;font-size:17px;border-radius:5px;background:#5372f0;font-family: 'Poppins',sans-serif;margin-left:5px}
 .bt{text-decoration:none;cursor:pointer;padding:.1em .25em;min-width:1.4em;font-size:1.7em;color:black;font-family:&quot;Times New Roman&quot;}
 .btb{text-decoration:none;cursor:pointer;padding:.1em 0;min-width:1.2em;font-size:1.7em;color:black;font-family:&quot;Times New Roman&quot;}
 .cadr{width:80%;font-size:24px;color:#000;font-family:&#39;Times New Roman&#39;;direction:rtl;padding:.3em}
-.container{max-width:100%;width:100%;padding:30px;background:#fff;border-radius:7px;box-shadow:0 10px 20px rgb(0,0,0,0.01);font-family:&#39;Poppins&#39;,sans-serif}
+.container{max-width:100%;width:100%;padding:30px;background:#fff;border-radius:7px;box-shadow:0 10px 20px rgb(0,0,0,0.01);font-family: 'Poppins',sans-serif;,sans-serif}
 .wrapper{border-radius:5px;border:#ccc solid 1px}
 .wrapper .text-input{display:flex;border-bottom:1px solid #ccc}
 .text-input .to-text{border-radius:0;border-left:1px solid #ccc}
@@ -179,7 +179,7 @@ a.trl{width:100%;padding:7px;outline:0;border:0;color:#fff;cursor:pointer;margin
 .controls .row select::-webkit-scrollbar-thumb{background:#999;border-radius:8px;border-right:2px solid #fff}
 .controls .exchange{color:#adadad;cursor:pointer;font-size:16px;transition:transform .2s ease}
 .controls i:active{transform:scale(0.9)}
-.container button{width:100%;padding:14px;outline:0;border:0;color:#fff;cursor:pointer;margin-top:20px;font-size:17px;border-radius:5px;background:#5372f0;font-family:&#39;Poppins&#39;,sans-serif}
+.container button{width:100%;padding:14px;outline:0;border:0;color:#fff;cursor:pointer;margin-top:20px;font-size:17px;border-radius:5px;background:#5372f0;font-family: 'Poppins',sans-serif;
 @media(max-width:660px){.container{padding:20px}
 .wrapper .text-input{flex-direction:column}
 .text-input .to-text{border-left:0;border-top:1px solid #ccc}
