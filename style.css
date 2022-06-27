@@ -132,7 +132,7 @@ body{font-family:&quot;Open Sans&quot;,sans-serif;font-size:14px;font-weight:400
   .slideInUp{animation-name:slideInUp}
 .bt,.btb{color:#222;cursor:pointer;font-size:18px;line-height:27px;font-family:&#39;Times New Roman&#39;;width:33pt;background:#fefefe;border-radius:4px;transition:all .1s ease-in-out;border:#888 solid 1px}
 .bt,.btb{border:#646e7a solid .16em}
-input.bft{width:100px;padding:7px;outline:0;border:0;color:#fff;cursor:pointer;margin-top:10px;font-size:17px;border-radius:5px;background:#5372f0;font-family:&#39;Poppins&#39;,sans-serif;margin-left:5px}
+input.bft{width:100px;padding:7px;outline:0;border:0;color:#fff;cursor:pointer;margin-top:10px;font-size:17px;border-radius:5px;background:#5372f0;font-family: 'Poppins',sans-serif;margin-left:5px}
 p{margin-top:.6em;margin-bottom:.6em}
 .esp{clear:both}
 a{color:#fff}
