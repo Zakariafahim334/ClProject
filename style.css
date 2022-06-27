@@ -458,3 +458,24 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
 }
+.ind-darkmode{ display:inline-block; float: right; margin-top: 3px; position:absolute; right:45px; top: 0; z-index:999; } .ind-darkmode svg{ width:24px; height:24px; vertical-align: -5px; background-repeat: no-repeat !important; content: &#39;&#39;; } .ind-darkmode svg path{ fill:#000; } .ind-darkmode .check:checked ~ .NavMenu{ is opacity:1; visibility:visible; top:45px; min-width:200px; transition:all .3s ease; z-index:2; } .ind-icon { cursor: pointer; display: block; padding: 8px; background-position: center; transition: all .5s linear; } .ind-icon:hover{ border-radius: 100px; background: rgba(0,0,0,.2) radial-gradient(circle, transparent 2%, rgba(0,0,0,.2) 2%) center/15000%; } .check { display: none; } .ind-darkmode .ind-icon .openmode{ display:block; } .ind-darkmode .ind-icon .closemode{ display:none; } .ind-darkmode .check:checked ~ .ind-icon .openmode{ display:none; } 
+.ind-darkmode .check:checked ~ .ind-icon .closemode{ display:block; } 
+.Night { background: #353535; } 
+.nightmode .ind-darkmode svg path{
+     fill: #fff;		/*----- مجرد مثال لل سي اس اس الذى يتم وضعه للعنصر هنا -----*/
+}
+.nightmode #outer-wrapper {
+    background: #000;
+    background-color:#000;
+}
+.nightmode .bt{
+background: #000000;
+color: white;
+}
+.nightmode .btb{
+background: #000000;
+color: white;
+}
+.nightmode div.as{
+color: white;
+}
